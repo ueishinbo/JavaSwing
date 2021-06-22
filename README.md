@@ -3,7 +3,7 @@
 
 项目截图
 
-<img src="/Users/shinbouei/Library/Application Support/typora-user-images/image-20210623002453852.png" alt="image-20210623002453852" style="zoom:40%;" />
+![1624379384813.jpg](https://i.loli.net/2021/06/23/EMsya9zpvBoeGYj.jpg)
 
 ## 特点
 
